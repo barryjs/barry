@@ -1,6 +1,6 @@
 {
   "name": "barry",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Barry.js - Soothing server-client model synchronization for JavaScript",
   "main": "src/index.js",
   "directories": {
