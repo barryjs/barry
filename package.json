@@ -1,0 +1,31 @@
+{
+  "name": "barry",
+  "version": "0.0.1",
+  "description": "Barry.js - Soothing server-client model synchronization for JavaScript",
+  "main": "src/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-webpack": "~0.10.4",
+    "jshint-loader": "~0.5.0",
+    "webpack": "~0.10.0-beta17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/barryjs/barry.git"
+  },
+  "keywords": [
+    "mvc",
+    "synchronization",
+    "simple"
+  ],
+  "author": "Stefan Thomas <justmoon@members.fsf.org>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
