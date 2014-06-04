@@ -2,6 +2,8 @@
 
 Barry, the old gossip, is a simple JavaScript/Node.js library that keeps your client-side models synchronized with your server-side state.
 
+More bacon!
+
 Barry really loves Angular.js <= Socket.IO => Node.js, but all the actual integration with those tools consists of just a few lines of JavaScript, so you can easily write the glue to hook it into pretty much anything you want.
 
 On the server-side you first define an endpoint. This is where you specify how clients will connect and how they'll be able to talk to Barry. Here is how you set up a Socket.IO endpoint:
